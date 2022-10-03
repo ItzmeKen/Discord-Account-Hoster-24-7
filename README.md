@@ -1,2 +1,6 @@
-# Discord-Account-Hoster
-Discord Account Hoster by ! - 𝘒 𝘌 𝘕#2836
+# Discord Account Hoster
+# Steps
+**Go to settings.json and fill up your outputs**
+
+**run main.py and your token will be input in console**
+# Enjoy, created by ! - 𝘒 𝘌 𝘕#2836.
